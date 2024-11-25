@@ -84,6 +84,12 @@
     <name>Developer of the NewPipe app</name>
   </developer>
   <releases>
+    <release version="0.27.3" date="2024-11-24">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.3</url>
+      <description>
+        <p>This version also includes the changes from NewPipe Extractor version v0.24.3.</p>
+      </description>
+    </release>
     <release version="0.27.2" date="2024-07-25">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.2</url>
       <description>
