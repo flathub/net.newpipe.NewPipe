@@ -84,6 +84,12 @@
     <name>Developer of the NewPipe app</name>
   </developer>
   <releases>
+    <release version="0.27.4" date="2024-11-24">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.4</url>
+      <description>
+        <p>This is a minor release made to allow the new APK to be reproducible for F-Droid, see v0.27.3 for the previous release notes</p>
+      </description>
+    </release>
     <release version="0.27.3" date="2024-11-24">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.3</url>
       <description>
