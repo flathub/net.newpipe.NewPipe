@@ -24,35 +24,35 @@
   </description>
   <screenshots>
     <screenshot type="default">
-      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/623c65625d355138af677492b7496d9e128ed0c7/screenshots/newpipe/00.png</image>
+      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/1e5a668b2681f40ed3eaaaa16d3351c1f7fc0fe2/screenshots/newpipe/00.png</image>
       <caption>Start page showing trending videos on YouTube</caption>
     </screenshot>
     <screenshot>
-      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/623c65625d355138af677492b7496d9e128ed0c7/screenshots/newpipe/01.png</image>
+      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/1e5a668b2681f40ed3eaaaa16d3351c1f7fc0fe2/screenshots/newpipe/01.png</image>
       <caption>Video detail page showing infos and offering to play or download the video</caption>
     </screenshot>
     <screenshot>
-      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/623c65625d355138af677492b7496d9e128ed0c7/screenshots/newpipe/02.png</image>
+      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/1e5a668b2681f40ed3eaaaa16d3351c1f7fc0fe2/screenshots/newpipe/02.png</image>
       <caption>Search page allowing to search media content name</caption>
     </screenshot>
     <screenshot>
-      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/623c65625d355138af677492b7496d9e128ed0c7/screenshots/newpipe/03.png</image>
+      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/1e5a668b2681f40ed3eaaaa16d3351c1f7fc0fe2/screenshots/newpipe/03.png</image>
       <caption>Play queue allowing to play media content in background as audio only stream</caption>
     </screenshot>
     <screenshot>
-      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/623c65625d355138af677492b7496d9e128ed0c7/screenshots/newpipe/04.png</image>
+      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/1e5a668b2681f40ed3eaaaa16d3351c1f7fc0fe2/screenshots/newpipe/04.png</image>
       <caption>Channel detail page showing all videos of one channel</caption>
     </screenshot>
     <screenshot>
-      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/623c65625d355138af677492b7496d9e128ed0c7/screenshots/newpipe/05.png</image>
+      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/1e5a668b2681f40ed3eaaaa16d3351c1f7fc0fe2/screenshots/newpipe/05.png</image>
       <caption>Start page with dark theme</caption>
     </screenshot>
     <screenshot>
-      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/623c65625d355138af677492b7496d9e128ed0c7/screenshots/newpipe/06.png</image>
+      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/1e5a668b2681f40ed3eaaaa16d3351c1f7fc0fe2/screenshots/newpipe/06.png</image>
       <caption>Video detail page with dark theme</caption>
     </screenshot>
     <screenshot>
-      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/623c65625d355138af677492b7496d9e128ed0c7/screenshots/newpipe/07.png</image>
+      <image>https://gitlab.com/julianwi/newpipe_flatpak/-/raw/1e5a668b2681f40ed3eaaaa16d3351c1f7fc0fe2/screenshots/newpipe/07.png</image>
       <caption>Channel detail page with dark theme</caption>
     </screenshot>
   </screenshots>
