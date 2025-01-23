@@ -25,15 +25,15 @@ modules:
   - name: newpipe
     buildsystem: simple
     build-commands:
-      - install -D NewPipe_v0.27.4.apk /app/share/NewPipe.apk
+      - install -D NewPipe_v0.27.5.apk /app/share/NewPipe.apk
       - install -D newpipe.sh /app/bin/newpipe.sh
       - install -D net.newpipe.NewPipe.desktop /app/share/applications/net.newpipe.NewPipe.desktop
       - install -D logo.svg /app/share/icons/hicolor/scalable/apps/net.newpipe.NewPipe.svg
       - install -D net.newpipe.NewPipe.metainfo.xml /app/share/metainfo/net.newpipe.NewPipe.metainfo.xml
     sources:
       - type: file
-        url: https://archive.newpipe.net/fdroid/repo/NewPipe_v0.27.4.apk
-        sha256: d196fe395a9e487271b737d4de3696cb683284f3bcff5baaffbb71bba1aa53c8
+        url: https://archive.newpipe.net/fdroid/repo/NewPipe_v0.27.5.apk
+        sha256: be4de6c74e197396013e28647f0c52ed6d996945b6c51595b34476ccc6ab7c07
       - type: file
         url: https://newpipe.net/img/logo.svg
         sha256: dcbdc537ef9937225df96f97a571a5deb2e5dde021c687530b7ee165c5c67cb7
