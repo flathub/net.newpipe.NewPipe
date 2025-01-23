@@ -84,6 +84,12 @@
     <name>Developer of the NewPipe app</name>
   </developer>
   <releases>
+    <release version="0.27.5" date="2025-01-22">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.5</url>
+      <description>
+        <p>This hotfix release fixes YouTube videos not loading due to the error "IOS player response is not valid", see Issue #11934 and Pull Request TeamNewPipe/NewPipeExtractor#1262.</p>
+      </description>
+    </release>
     <release version="0.27.4" date="2024-11-30">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.4</url>
       <description>
