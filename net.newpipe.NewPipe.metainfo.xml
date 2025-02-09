@@ -87,6 +87,12 @@
     <name>Developer of the NewPipe app</name>
   </developer>
   <releases>
+    <release version="0.27.6" date="2025-02-05">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.6</url>
+      <description>
+        <p>This hotfix release fixes various YouTube issues</p>
+      </description>
+    </release>
     <release version="0.27.5" date="2025-01-22">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.5</url>
       <description>
