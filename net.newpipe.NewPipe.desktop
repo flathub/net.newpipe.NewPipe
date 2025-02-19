@@ -2,6 +2,6 @@
 Type=Application
 Name=NewPipe
 Exec=newpipe.sh --uri %u
-Comment=Lightweight YouTube frontend 
+Comment=Lightweight YouTube frontend (unofficial port)
 X-Purism-FormFactor=Workstation;Mobile;
 Icon=net.newpipe.NewPipe
