@@ -86,6 +86,13 @@
   <developer id="net.newpipe">
     <name>Packaged by Android Translation Layer</name>
   </developer>
+    <release version="0.27.7" date="2025-05-07">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.7</url>
+      <description>
+        <p>This hotfix release fixes YouTube only providing a 360p stream #12126 #12134 TeamNewPipe/NewPipeExtractor#1297</p>
+	<p>Note that the solution employed in this version is likely temporary, and in the long run the SABR video protocol needs to be implemented, but TeamNewPipe members are currently busy so any help would be greatly appreciated! Take a look at #12248 for more information.</p>
+      </description>
+    </release>
   <releases>
     <release version="0.27.6" date="2025-02-05">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.6</url>
