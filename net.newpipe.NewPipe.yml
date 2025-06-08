@@ -1,6 +1,6 @@
 app-id: net.newpipe.NewPipe
 runtime: org.gnome.Platform
-runtime-version: '47'
+runtime-version: '48'
 sdk: org.gnome.Platform
 base: io.gitlab.android_translation_layer.BaseApp
 base-version: stable
