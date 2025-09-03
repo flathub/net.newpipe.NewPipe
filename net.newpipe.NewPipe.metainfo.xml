@@ -87,6 +87,17 @@
     <name>Packaged by Android Translation Layer</name>
   </developer>
   <releases>
+    <release version="0.28.0" date="2025-08-01">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.0</url>
+      <description>
+        <p>Add support for Android Auto (special thanks to @haggaie!) #9592 #12044 #12416 #12410 #12412</p>
+        <p>Add feed groups as main screen tabs #12325</p>
+        <p>[YouTube] Support new kiosks and add migration to change trending kiosk tab #12450</p>
+        <p>[YouTube] Share as YouTube temporary playlist #12065</p>
+        <p>[SoundCloud] Add support for likes in channel and feed #12367</p>
+        <p>[SoundCloud] Add support for AAC 160k unprotected stream TeamNewPipe/NewPipeExtractor#1317</p>
+      </description>
+    </release>
     <release version="0.27.7" date="2025-05-07">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.27.7</url>
       <description>
