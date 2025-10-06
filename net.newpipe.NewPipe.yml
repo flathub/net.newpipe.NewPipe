@@ -1,6 +1,6 @@
 app-id: net.newpipe.NewPipe
 runtime: org.gnome.Platform
-runtime-version: '48'
+runtime-version: '49'
 sdk: org.gnome.Platform
 base: io.gitlab.android_translation_layer.BaseApp
 base-version: stable
@@ -14,7 +14,7 @@ finish-args:
   - --socket=pulseaudio
 add-extensions:
   org.freedesktop.Platform.ffmpeg-full:
-    version: '24.08'
+    version: '25.08'
     directory: lib/ffmpeg
     add-ld-path: .
     no-autodownload: false
