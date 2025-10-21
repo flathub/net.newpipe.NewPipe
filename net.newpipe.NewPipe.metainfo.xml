@@ -11,7 +11,7 @@
   <url type="donation">https://newpipe.net/donate/</url>
   <url type="translate">https://hosted.weblate.org/engage/newpipe/</url>
   <description>
-	  <p>**NOTE:** This is an unofficial and experimental Flatpak build based on Android Translation Layer. It is <em>not</em> assembled by TeamNewPipe, and it is neither affiliated with nor endorsed by TeamNewPipe. Please report bugs to the ATL bug tracker instead of the NewPipe bug tracker: https://gitlab.com/android_translation_layer/android_translation_layer/-/issues.</p>
+	  <p>**This is an unofficial and experimental Flatpak build based on Android Translation Layer. It is <em>not</em> assembled by TeamNewPipe, and it is neither affiliated with nor endorsed by TeamNewPipe. Please report bugs to the ATL bug tracker instead of the NewPipe bug tracker: https://gitlab.com/android_translation_layer/android_translation_layer/-/issues.**</p>
     <p>NewPipe is a privacy-preserving YouTube frontend. NewPipe does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don't need a YouTube account to use NewPipe, and it's FLOSS.</p>
     <p>NewPipe currently supports these services:</p>
     <ul>
