@@ -12,15 +12,6 @@ finish-args:
   - --socket=fallback-x11
   - --device=dri
   - --socket=pulseaudio
-add-extensions:
-  org.freedesktop.Platform.ffmpeg-full:
-    version: '25.08'
-    directory: lib/ffmpeg
-    add-ld-path: .
-    no-autodownload: false
-    autodelete: false
-cleanup-commands:
-  - mkdir -p ${FLATPAK_DEST}/lib/ffmpeg
 modules:
   - name: newpipe
     buildsystem: simple
