@@ -87,6 +87,13 @@
     <name>Packaged by Android Translation Layer</name>
   </developer>
   <releases>
+    <release version="0.28.2" date="2026-01-28">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.2</url>
+      <description>
+        <p>**Hotfix release**</p>
+        <p>This hotfix release fixes the "Content not available" error that prevents YouTube videos from being played: #13082. It also fixes a few regressions that slipped through with 0.28.1: #13072 #13031 #13040 #13046.</p>
+      </description>
+    </release>
     <release version="0.28.0" date="2025-08-01">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.0</url>
       <description>
