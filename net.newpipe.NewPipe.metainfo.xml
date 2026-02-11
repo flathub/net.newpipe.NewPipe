@@ -87,6 +87,14 @@
     <name>Packaged by Android Translation Layer</name>
   </developer>
   <releases>
+    <release version="0.28.3" date="2026-02-05">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.3</url>
+      <description>
+        <p>[YouTube] Added support for more channel URL formats</p>
+        <p>[YouTube] Added support for more video metainfo formats</p>
+        <p>Fixed resuming streams at the last playback position #13195</p>
+      </description>
+    </release>
     <release version="0.28.2" date="2026-01-28">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.2</url>
       <description>
