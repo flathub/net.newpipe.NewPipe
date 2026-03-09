@@ -87,6 +87,16 @@
     <name>Packaged by Android Translation Layer</name>
   </developer>
   <releases>
+    <release version="0.28.4" date="2026-03-08">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.4</url>
+      <description>
+        <p>Add warning popup about ongoing google certification for android apps #13282 #13292 #13298</p>
+        <p>[Feed] Shuffle the order outdated subscriptions are updated in #13161</p>
+        <p>Do not stack comment pages #13213</p>
+        <p>VideoDetailFragment: Forcefully catch click events uncaught by children #13203</p>
+        <p>Add link to FAQ entry to "Sign in to confirm not a bot" exception message #13310</p>
+      </description>
+    </release>
     <release version="0.28.3" date="2026-02-05">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.3</url>
       <description>
