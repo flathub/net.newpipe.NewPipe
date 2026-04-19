@@ -87,6 +87,14 @@
     <name>Packaged by Android Translation Layer</name>
   </developer>
   <releases>
+    <release version="0.28.5" date="2026-04-12">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.5</url>
+      <description>
+        <p>Add UI options to import/export subsciptions in backup &amp; restore settings #13347</p>
+        <p>Fix NullPointerException in enqueue actions by using Application Context #13385</p>
+        <p>[YouTube] Fix parsing duration of related items #13403 TeamNewPipe/NewPipeExtractor#1464</p>
+      </description>
+    </release>
     <release version="0.28.4" date="2026-03-08">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.4</url>
       <description>
