@@ -4,4 +4,5 @@ Name=NewPipe
 Exec=newpipe.sh --uri %u
 Comment=Lightweight YouTube frontend (unofficial port)
 X-Purism-FormFactor=Workstation;Mobile;
+StartupNotify=true
 Icon=net.newpipe.NewPipe
