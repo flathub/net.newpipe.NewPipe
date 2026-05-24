@@ -87,6 +87,13 @@
     <name>Packaged by Android Translation Layer</name>
   </developer>
   <releases>
+    <release version="0.28.7" date="2026-05-23">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.7</url>
+      <description>
+        <p>This is a small hotfix update to make YouTube usable again. It is necessary, because there were changes by YouTube.</p>
+        <p>NewPipe is able to extract items in channel tabs again thanks to @AudricV's and @Ecomont's efforts.</p>
+      </description>
+    </release>
     <release version="0.28.5" date="2026-04-12">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.5</url>
       <description>
