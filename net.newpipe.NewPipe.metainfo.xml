@@ -87,6 +87,13 @@
     <name>Packaged by Android Translation Layer</name>
   </developer>
   <releases>
+    <release version="0.28.8" date="2026-06-10">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.8</url>
+      <description>
+        <p>This release fixes issues that were caused by YouTube enforcing its SABR protocol, except for videos made for kids due to a limitation of the workaround. Most notable were missing video resolutions, no separate audio stream available and the sole availability of MP4 360p stream with audio. This workaround is a community effort. Thanks to all the people involved! #13591</p>
+        <p>This release is shipped with NewPipe Extractor v0.26.3 which contains the mentioned workaround as well as a few other fixes, including no videos extracted on YouTube playlists and Bandcamp search returning no results.</p>
+      </description>
+    </release>
     <release version="0.28.7" date="2026-05-23">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.7</url>
       <description>
