@@ -87,6 +87,13 @@
     <name>Packaged by Android Translation Layer</name>
   </developer>
   <releases>
+    <release version="0.29.1" date="2026-08-16">
+      <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.29.1</url>
+      <description>
+        <p>This release drops support for Android 5, see blogpost and #13438</p>
+        <p>Compose rewrite #13486 #13652</p>
+      </description>
+    </release>
     <release version="0.28.8" date="2026-06-10">
       <url type="details">https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.28.8</url>
       <description>
