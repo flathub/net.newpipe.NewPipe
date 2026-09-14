@@ -1,6 +1,6 @@
 app-id: net.newpipe.NewPipe
 runtime: org.gnome.Platform
-runtime-version: '49'
+runtime-version: '50'
 sdk: org.gnome.Platform
 base: io.gitlab.android_translation_layer.BaseApp
 base-version: stable
@@ -16,15 +16,15 @@ modules:
   - name: newpipe
     buildsystem: simple
     build-commands:
-      - install -D NewPipe_v0.28.8.apk /app/share/NewPipe.apk
+      - install -D NewPipe_v0.29.1.apk /app/share/NewPipe.apk
       - install -D newpipe.sh /app/bin/newpipe.sh
       - install -D net.newpipe.NewPipe.desktop /app/share/applications/net.newpipe.NewPipe.desktop
       - install -D logo.svg /app/share/icons/hicolor/scalable/apps/net.newpipe.NewPipe.svg
       - install -D net.newpipe.NewPipe.metainfo.xml /app/share/metainfo/net.newpipe.NewPipe.metainfo.xml
     sources:
       - type: file
-        url: https://archive.newpipe.net/fdroid/repo/NewPipe_v0.28.8.apk
-        sha256: d9fb2540b3a2a0b059c73a296f0cda1c06738426d013c626dbf088aea66629b3
+        url: https://archive.newpipe.net/fdroid/repo/NewPipe_v0.29.1.apk
+        sha256: 18447bfb1e06d113edc88df93f471827280de06f6f3d4dc42f56f28b9c1bab79
       - type: file
         url: https://newpipe.net/img/logo.svg
         sha256: dcbdc537ef9937225df96f97a571a5deb2e5dde021c687530b7ee165c5c67cb7
