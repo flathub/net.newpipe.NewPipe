@@ -52,6 +52,13 @@ modules:
       - chmod +x /app/share/oat/$arch/NewPipe.odex
       - mv /app/share/NewPipe.apk NewPipe.apk
       - zip -d NewPipe.apk "classes*.dex"
+      # keep only ABI dirs whose name starts with the arch (e.g. arm64-v8a)
+      - for d in $(unzip -Z1 OctoDroid.apk | grep '^lib/' | cut -d/ -f2 | sort -u); do
+          case $d in
+            $arch*) ;;
+            *) zip -d NewPipe.apk "lib/$d/*";;
+          esac
+        done
       - mv NewPipe.apk /app/share/NewPipe.apk
 
   - name: remove-dex2oat
